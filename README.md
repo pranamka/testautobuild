@@ -1,4 +1,1 @@
 # testautobuild
-
-test     
-aaa
